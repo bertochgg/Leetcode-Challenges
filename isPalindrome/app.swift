@@ -5,6 +5,8 @@
 
 //For example, 121 is a palindrome while 123 is not.
 
+//Hola solo hago este cambio para mostrar el git show
+
 var x: Int = 456
 
 func isPalindrom(x: Int) -> Bool{
